@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#D8D8D8</color>
+    <color name="app_background">#FFECECEC</color>
+    <color name="line_color">#D6D6D6</color>
+    <color name="bluetooth_color">#72ADFF</color>
+    <color name="swim_color">#77A4F8</color>
+    <color name="tumble_color">#FF6565</color>
+    <color name="timer_color">#DB5D5D</color>
+    <color name="safety_band_background">#282828</color>
+    <color name="fitness_band_background">#5FA6FF</color>
+    <color name="radio_unchecked">#8493A5</color>
+    <color name="radio_checked">#0099CA</color>
+    <color name="call_watch_background">#F98484</color>
+</resources>

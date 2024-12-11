@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AquaGuard</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_state_disconnected">State: Disconnected</string>
+    <string name="button_read">Read</string>
+    <string name="button_write">Write</string>
+    <string name="button_clear_log">Clear</string>
+    <string name="text_static_read_hint">Readable characteristic</string>
+    <string name="text_static_write_hint">Writeable characteristic</string>
+    <string name="text_static_indicate_hint">Indication</string>
+    <string name="text_static_autoconnect">Scan &amp; Autoconnect</string>
+    <string name="text_subscribed">Subscribed</string>
+    <string name="text_not_subscribed">Not subscribed</string>
+    <string name="text_default_write_value">Android says Hi</string>
+    <string name="text_hint_write_value">String value for write</string>
+    <string name="text_default_logs_value">Logs:</string>
+    <string name="time_10min">10m</string>
+    <string name="time_20min">20m</string>
+    <string name="time_30min">30m</string>
+    <string name="time_40min">40m</string>
+    <string name="time_50min">50m</string>
+    <string name="time_1h">1h</string>
+    <string name="time_interval_text">시간 간격이 %1$s으로 설정되었습니다</string>
+    <string name="safety_band">AquaGuard</string>
+    <string name="swim">Swim</string>
+    <string name="tumble">Tumble</string>
+    <string name="swim_mode">Swim Mode</string>
+    <string name="call">CALL</string>
+    <string name="reset">Reset</string>
+
+</resources>
